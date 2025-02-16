@@ -1,0 +1,37 @@
+{
+  "chart": {
+    "title": "Coal consumption",
+    "subtitle": "Coal consumption by country or region, measured in terawatt-hours (TWh).",
+    "citation": "Energy Institute - Statistical Review of World Energy (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/coal-consumption-by-country-terawatt-hours-twh?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "India",
+      "Japan",
+      "Germany",
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  "columns": {
+    "Coal consumption - TWh": {
+      "titleShort": "Coal consumption",
+      "titleLong": "Coal consumption",
+      "descriptionKey": [
+        "Includes commercial solid fuels only, i.e. bituminous coal and anthracite (hard coal), and lignite and brown (sub-bituminous) coal, and other commercial solid fuels. Excludes coal converted to liquid or gaseous fuels, but includes coal consumed in transformation processes. Differences between the consumption figures and the world production statistics are accounted for by stock changes, and unavoidable disparities in the definition, measurement or conversion of coal supply and demand data."
+      ],
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2023",
+      "type": "Numeric",
+      "owidVariableId": 943815,
+      "shortName": "coal_consumption_twh",
+      "lastUpdated": "2024-06-20",
+      "nextUpdate": "2025-06-20",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data. “Coal consumption” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/943815.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-02-09",
+  "activeFilters": {}
+}

@@ -1,0 +1,37 @@
+{
+  "chart": {
+    "title": "Wind power generation",
+    "subtitle": "Annual electricity generation from wind is measured in terawatt-hours (TWh) per year. This includes both onshore and offshore wind sources.",
+    "citation": "Ember (2024); Energy Institute - Statistical Review of World Energy (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/wind-generation?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United Kingdom",
+      "India",
+      "Australia",
+      "New Zealand",
+      "Denmark"
+    ]
+  },
+  "columns": {
+    "Electricity from wind - TWh": {
+      "titleShort": "Electricity generation from wind power",
+      "titleLong": "Electricity generation from wind power - Ember and Energy Institute",
+      "descriptionShort": "Measured in terawatt-hours.",
+      "descriptionKey": [],
+      "descriptionProcessing": "- We rely on Ember as the primary source of electricity data. While the Energy Institute (EI) provides primary energy (not just electricity) consumption data and it provides a longer time-series (dating back to 1965) than Ember (which only dates back to 1990), EI does not provide data for all countries or for all sources of electricity (for example, only Ember provides data on electricity from bioenergy). So, where data from Ember is available for a given country and year, we rely on it as the primary source. We then supplement this with data from EI where data from Ember is not available.",
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2023",
+      "type": "Numeric",
+      "owidVariableId": 944028,
+      "shortName": "wind_generation__twh",
+      "lastUpdated": "2024-06-20",
+      "nextUpdate": "2025-06-20",
+      "citationShort": "Ember (2024); Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data",
+      "citationLong": "Ember (2024); Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data. “Electricity generation from wind power – Ember and Energy Institute” [dataset]. Ember, “Yearly Electricity Data”; Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/944028.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-02-09",
+  "activeFilters": {}
+}

@@ -1,0 +1,40 @@
+{
+  "chart": {
+    "title": "Per capita electricity generation",
+    "subtitle": "Annual average electricity generation per person, measured in [kilowatt-hours](#dod:watt-hours).",
+    "citation": "Ember (2024); Energy Institute - Statistical Review of World Energy (2024); Population based on various sources (2023)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/per-capita-electricity-generation?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United Kingdom",
+      "United States",
+      "India",
+      "China",
+      "Brazil",
+      "Australia",
+      "France",
+      "South Africa"
+    ]
+  },
+  "columns": {
+    "Per capita electricity - kWh": {
+      "titleShort": "Total electricity generation per person",
+      "titleLong": "Total electricity generation per person - Ember and Energy Institute",
+      "descriptionShort": "Measured in kilowatt-hours per person.",
+      "descriptionKey": [],
+      "descriptionProcessing": "- We rely on Ember as the primary source of electricity data. While the Energy Institute (EI) provides primary energy (not just electricity) consumption data and it provides a longer time-series (dating back to 1965) than Ember (which only dates back to 1990), EI does not provide data for all countries or for all sources of electricity (for example, only Ember provides data on electricity from bioenergy). So, where data from Ember is available for a given country and year, we rely on it as the primary source. We then supplement this with data from EI where data from Ember is not available.",
+      "shortUnit": "kWh",
+      "unit": "kilowatt-hours",
+      "timespan": "1985-2023",
+      "type": "Numeric",
+      "owidVariableId": 943996,
+      "shortName": "per_capita_total_generation__kwh",
+      "lastUpdated": "2024-06-20",
+      "nextUpdate": "2025-06-20",
+      "citationShort": "Ember (2024); Energy Institute - Statistical Review of World Energy (2024); Population based on various sources (2023) – with major processing by Our World in Data",
+      "citationLong": "Ember (2024); Energy Institute - Statistical Review of World Energy (2024); Population based on various sources (2023) – with major processing by Our World in Data. “Total electricity generation per person – Ember and Energy Institute” [dataset]. Ember, “Yearly Electricity Data”; Energy Institute, “Statistical Review of World Energy”; Various sources, “Population” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/943996.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-02-09",
+  "activeFilters": {}
+}

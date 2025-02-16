@@ -1,0 +1,45 @@
+{
+  "chart": {
+    "title": "Fossil fuel consumption per capita",
+    "subtitle": "Fossil fuel consumption per capita is measured as the average consumption of energy from coal, oil and gas, in [kilowatt-hours](#dod:watt-hours) per person.",
+    "citation": "Energy Institute - Statistical Review of World Energy (2024); Population based on various sources (2023)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/fossil-fuels-per-capita?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United Kingdom",
+      "Europe",
+      "India",
+      "China",
+      "United States",
+      "France",
+      "Australia",
+      "South Africa",
+      "Germany"
+    ]
+  },
+  "columns": {
+    "Fossil fuels per capita (kWh)": {
+      "titleShort": "Fossil fuel consumption per capita",
+      "titleLong": "Fossil fuel consumption per capita",
+      "descriptionShort": "Measured in kilowatt-hours per person.",
+      "descriptionKey": [
+        "Includes commercial solid fuels only, i.e. bituminous coal and anthracite (hard coal), and lignite and brown (sub-bituminous) coal, and other commercial solid fuels. Excludes coal converted to liquid or gaseous fuels, but includes coal consumed in transformation processes. Differences between the consumption figures and the world production statistics are accounted for by stock changes, and unavoidable disparities in the definition, measurement or conversion of coal supply and demand data.",
+        "Includes inland demand plus international aviation and marine bunkers and refinery fuel and loss. Consumption of biogasoline (such as ethanol) and biodiesel are excluded while derivatives of coal and natural gas are included. Differences between the world consumption figures and world production statistics are accounted for by stock changes, consumption of non-petroleum additives and substitute fuels and unavoidable disparities in the definition, measurement or conversion of oil supply and demand data.",
+        "Excludes natural gas converted to liquid fuels but includes derivatives of coal as well as natural gas consumed in Gas-to-Liquids transformation. The difference between the world consumption figures and the world production statistics is due to variations in stocks at storage facilities and liquefaction plants, together with unavoidable disparities in the definition, measurement or conversion of gas supply and demand data."
+      ],
+      "descriptionProcessing": "Per capita figures are calculated by dividing by a population dataset that is built and maintained by Our World in Data, based on [different sources](https://ourworldindata.org/population-sources).",
+      "shortUnit": "kWh",
+      "unit": "kilowatt-hours",
+      "timespan": "1965-2023",
+      "type": "Numeric",
+      "owidVariableId": 944085,
+      "shortName": "fossil_fuels_per_capita__kwh",
+      "lastUpdated": "2024-06-20",
+      "nextUpdate": "2025-06-20",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2024); Population based on various sources (2023) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2024); Population based on various sources (2023) – with major processing by Our World in Data. “Fossil fuel consumption per capita” [dataset]. Energy Institute, “Statistical Review of World Energy”; Various sources, “Population” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/944085.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-02-09",
+  "activeFilters": {}
+}

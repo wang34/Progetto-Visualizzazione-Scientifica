@@ -1,0 +1,35 @@
+{
+  "chart": {
+    "title": "Installed geothermal energy capacity",
+    "subtitle": "Cumulative installed capacity of geothermal energy, measured in megawatts.",
+    "citation": "IRENA (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/installed-geothermal-capacity?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Russia",
+      "Oceania",
+      "Philippines",
+      "Costa Rica"
+    ]
+  },
+  "columns": {
+    "Geothermal capacity (total)": {
+      "titleShort": "Total geothermal capacity",
+      "titleLong": "Total geothermal capacity",
+      "descriptionShort": "Total geothermal (on- and off-grid) electricity installed capacity, measured in megawatts.",
+      "descriptionKey": [],
+      "shortUnit": "MW",
+      "unit": "megawatts",
+      "timespan": "2000-2023",
+      "type": "Numeric",
+      "owidVariableId": 997342,
+      "shortName": "geothermal__total",
+      "lastUpdated": "2024-11-01",
+      "nextUpdate": "2025-11-01",
+      "citationShort": "IRENA (2024) – processed by Our World in Data",
+      "citationLong": "IRENA (2024) – processed by Our World in Data. “Total geothermal capacity” [dataset]. IRENA, “Renewable Capacity Statistics” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/997342.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-02-09",
+  "activeFilters": {}
+}

@@ -1,0 +1,36 @@
+{
+  "chart": {
+    "title": "Biofuel energy production",
+    "subtitle": "Total biofuel production is measured in terawatt-hours (TWh) per year. Biofuel production includes both bioethanol and biodiesel.",
+    "citation": "Energy Institute - Statistical Review of World Energy (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/biofuel-production?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Mexico",
+      "Germany",
+      "Brazil",
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  "columns": {
+    "Biofuels production - TWh": {
+      "titleShort": "Biofuels production",
+      "titleLong": "Biofuels production",
+      "descriptionShort": "Includes biogasoline (such as ethanol) and biodiesel. Volumes have been adjusted for energy content.",
+      "descriptionKey": [],
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1990-2023",
+      "type": "Numeric",
+      "owidVariableId": 943813,
+      "shortName": "biofuels_production_twh",
+      "lastUpdated": "2024-06-20",
+      "nextUpdate": "2025-06-20",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data. “Biofuels production” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/943813.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-02-09",
+  "activeFilters": {}
+}

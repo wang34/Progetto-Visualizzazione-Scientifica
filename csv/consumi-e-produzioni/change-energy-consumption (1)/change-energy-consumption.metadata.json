@@ -1,0 +1,32 @@
+{
+  "chart": {
+    "title": "Annual change in primary energy consumption",
+    "subtitle": "Change in [primary energy](#dod:primaryenergy) consumption as a percentage of the consumption of the previous year, using the [substitution method](#dod:substitutionmethod).",
+    "citation": "U.S. Energy Information Administration (2023); Energy Institute - Statistical Review of World Energy (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/change-energy-consumption?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Annual change in primary energy consumption (%)": {
+      "titleShort": "Annual change in primary energy consumption",
+      "titleLong": "Annual change in primary energy consumption",
+      "descriptionKey": [],
+      "descriptionProcessing": "- Primary energy consumption data was compiled based on two key data sources: [Energy Institute (EI) Statistical Review of World Energy](https://www.energyinst.org/statistical-review), and [International energy data from the U.S. Energy Information Administration (EIA)](https://www.eia.gov/international/data/world/total-energy/more-total-energy-data). EI provides the longest and most up-to-date time-series of primary energy. However, it does not provide data for all countries. We have therefore supplemented this dataset with energy data from the EIA. Where EI provides data for a given country, this data is adopted; for countries where this data is missing, we rely on EIA energy figures.\n- Per capita figures have been calculated using a population dataset that is based on [different sources](https://ourworldindata.org/population-sources).\n- To calculate energy per unit of GDP, we divide by total real GDP figures from [the Maddison Project Database](https://ourworldindata.org/grapher/gdp-maddison-project-database).\n",
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "1966-2023",
+      "type": "Numeric",
+      "owidVariableId": 943790,
+      "shortName": "annual_change_in_primary_energy_consumption__pct",
+      "lastUpdated": "2024-06-20",
+      "nextUpdate": "2025-06-20",
+      "citationShort": "U.S. Energy Information Administration (2023); Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data",
+      "citationLong": "U.S. Energy Information Administration (2023); Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data. “Annual change in primary energy consumption” [dataset]. U.S. Energy Information Administration, “International Energy Data”; Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/943790.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-02-09",
+  "activeFilters": {}
+}

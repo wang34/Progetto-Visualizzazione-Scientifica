@@ -1,0 +1,39 @@
+{
+  "chart": {
+    "title": "Gas consumption",
+    "subtitle": "Natural gas consumption, measured in [terawatt-hours](#dod:watt-hours).",
+    "citation": "Energy Institute - Statistical Review of World Energy (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/gas-consumption-by-country?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Argentina",
+      "Austria",
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "South Korea",
+      "China"
+    ]
+  },
+  "columns": {
+    "Gas consumption - TWh": {
+      "titleShort": "Gas consumption",
+      "titleLong": "Gas consumption",
+      "descriptionKey": [
+        "Excludes natural gas converted to liquid fuels but includes derivatives of coal as well as natural gas consumed in Gas-to-Liquids transformation. The difference between the world consumption figures and the world production statistics is due to variations in stocks at storage facilities and liquefaction plants, together with unavoidable disparities in the definition, measurement or conversion of gas supply and demand data."
+      ],
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2023",
+      "type": "Numeric",
+      "owidVariableId": 943841,
+      "shortName": "gas_consumption_twh",
+      "lastUpdated": "2024-06-20",
+      "nextUpdate": "2025-06-20",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data. “Gas consumption” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/943841.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-02-09",
+  "activeFilters": {}
+}

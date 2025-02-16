@@ -1,0 +1,83 @@
+{
+  "chart": {
+    "title": "Renewable electricity generation",
+    "note": "'Other renewables' refers to renewable sources including geothermal, biomass, waste, wave and tidal. Traditional biomass is not included.",
+    "citation": "Energy Institute - Statistical Review of World Energy (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/modern-renewable-energy-consumption?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Other renewables (including geothermal and biomass) electricity generation - TWh": {
+      "titleShort": "Other renewables (including geothermal and biomass)",
+      "titleLong": "Other renewables (including geothermal and biomass)",
+      "descriptionShort": "Figures are based on gross generation and do not account for cross-border electricity supply.",
+      "descriptionKey": [],
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2023",
+      "type": "Numeric",
+      "owidVariableId": 943942,
+      "shortName": "other_renewables_electricity_generation_twh",
+      "lastUpdated": "2024-06-20",
+      "nextUpdate": "2025-06-20",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data. “Other renewables (including geothermal and biomass)” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/943942.metadata.json"
+    },
+    "Solar generation - TWh": {
+      "titleShort": "Electricity generation from solar power",
+      "titleLong": "Electricity generation from solar power",
+      "descriptionShort": "Figures are based on gross generation and do not account for cross-border electricity supply.",
+      "descriptionKey": [],
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2023",
+      "type": "Numeric",
+      "owidVariableId": 943951,
+      "shortName": "solar_electricity_generation_twh",
+      "lastUpdated": "2024-06-20",
+      "nextUpdate": "2025-06-20",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data. “Electricity generation from solar power” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/943951.metadata.json"
+    },
+    "Wind generation - TWh": {
+      "titleShort": "Electricity generation from wind power",
+      "titleLong": "Electricity generation from wind power",
+      "descriptionShort": "Figures are based on gross generation and do not account for cross-border electricity supply.",
+      "descriptionKey": [],
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2023",
+      "type": "Numeric",
+      "owidVariableId": 943963,
+      "shortName": "wind_electricity_generation_twh",
+      "lastUpdated": "2024-06-20",
+      "nextUpdate": "2025-06-20",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data. “Electricity generation from wind power” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/943963.metadata.json"
+    },
+    "Hydro generation - TWh": {
+      "titleShort": "Electricity generation from hydropower",
+      "titleLong": "Electricity generation from hydropower",
+      "descriptionShort": "Figures are based on gross primary hydroelectric generation and do not account for cross-border electricity supply.",
+      "descriptionKey": [],
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2023",
+      "type": "Numeric",
+      "owidVariableId": 943878,
+      "shortName": "hydro_electricity_generation_twh",
+      "lastUpdated": "2024-06-20",
+      "nextUpdate": "2025-06-20",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2024) – with major processing by Our World in Data. “Electricity generation from hydropower” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/943878.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-02-09",
+  "activeFilters": {}
+}
